@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>دوري الأحياء</title>
+  <style>
+    body {font-family: Arial; background:#0f172a; color:white; margin:0;}
+    header {background:#1e293b; padding:20px; text-align:center;}
+    h1 {margin:0;}
+    .container {padding:20px;}
+    table {width:100%; border-collapse: collapse; background:#1e293b;}
+    th, td {padding:10px; text-align:center; border-bottom:1px solid #334155;}
+    th {background:#334155;}
+    tr:hover {background:#475569;}
+    .top {background:#16a34a;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🏆 دوري الأحياء</h1>
+  <p>ترتيب الفرق مباشر</p>
+</header>
+
+<div class="container">
+  <table>
+    <thead>
+      <tr>
+        <th>الفريق</th>
+        <th>لعب</th>
+        <th>فاز</th>
+        <th>تعادل</th>
+        <th>خسر</th>
+        <th>له</th>
+        <th>عليه</th>
+        <th>±</th>
+        <th>نقاط</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="top"><td>واصبان داخلي</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>حكم</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>محمود</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>بيروك</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>سرين</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>برجم</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>حسن كوري</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>ناشن جودوي</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>منتشر</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>بروسك</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>فرات</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>كاركر</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>باور خزية</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>باور اكر</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>فيان امارا</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>رينكار</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+      <tr><td>محمد كردي</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+    </tbody>
+  </table>
+</div>
+
+</body>
+</html>
